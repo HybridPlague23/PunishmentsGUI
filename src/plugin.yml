@@ -1,0 +1,9 @@
+main: me.HybridPlague.PunishmentsGUI.Main
+name: PunishmentsGUI
+author: HybridPlague
+version: 1.0
+softdepend: [AreaShop, Essentials]
+api-version: 1.13
+
+commands:
+  Punish:
